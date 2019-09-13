@@ -1,3 +1,4 @@
+/* eslint-disable no-global-assign, no-underscore-dangle */
 const birthday = require('./index');
 
 describe('Determines age based on birthday', () => {
